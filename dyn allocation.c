@@ -3,7 +3,7 @@
  
 int main(void)
 {
-    int i,j, r = 2, c = 4;
+    int i,j, r = 3, c = 4;
  
     int* ptr = malloc((r * c) * sizeof(int));
  
